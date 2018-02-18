@@ -26,7 +26,7 @@ class ExceptionsTest {
 	}
 	
 	//2. In the ExceptionMethods class, write a method called divide that takes
-	//   two doubles as parameters and returns their product as a double. This method 
+	//   two doubles as parameters and returns their quotient as a double. This method 
 	//   should throw an IllegalArgumentException if the denominator is 0.0.
 	
 	//3. Complete the JUnit test method to test the divide method.

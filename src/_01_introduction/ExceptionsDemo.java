@@ -33,7 +33,7 @@ public class ExceptionsDemo {
 	}
 	
 	public static void testMethod1(int x) throws Exception {
-		if(x > 5) {
+		if(x < 5) {
 			throw new Exception();
 		}
 	}
